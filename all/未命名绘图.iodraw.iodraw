@@ -34,7 +34,7 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="三代目" style="swimlane;html=1;startSize=20;horizontal=0;rounded=0;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="240" width="690" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#E4FDE1;align=center;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;" parent="dNxyNK7c78bLwvsdeMH5-22" vertex="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-34" value="大伯" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#E4FDE1;align=center;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;" parent="dNxyNK7c78bLwvsdeMH5-22" vertex="1">
           <mxGeometry x="60" y="50" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xxE5BMzJUpLGuSga_QZm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;fontStyle=0;strokeWidth=5;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" target="dNxyNK7c78bLwvsdeMH5-26">
