@@ -43,6 +43,9 @@
         <mxCell id="xxE5BMzJUpLGuSga_QZm-11" value="三爸&lt;br&gt;我爸" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#E4FDE1;align=center;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="250" y="50" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xxE5BMzJUpLGuSga_QZm-12" value="细爸&lt;br&gt;我爸" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#E4FDE1;align=center;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+          <mxGeometry x="344" y="50" width="80" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="xxE5BMzJUpLGuSga_QZm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;fontStyle=0;strokeWidth=5;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" target="dNxyNK7c78bLwvsdeMH5-26">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="90" as="sourcePoint" />
