@@ -22,7 +22,7 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-26" value="大爷&lt;br&gt;(我爷爷)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#E4FDE1;align=center;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
           <mxGeometry x="230" y="30" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xxE5BMzJUpLGuSga_QZm-1" value="细爷&lt;br&gt;(我爷爷)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#E4FDE1;align=center;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+        <mxCell id="xxE5BMzJUpLGuSga_QZm-1" value="细爷&lt;br&gt;老二" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#E4FDE1;align=center;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="360" y="30" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="三代目" style="swimlane;html=1;startSize=20;horizontal=0;rounded=0;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
